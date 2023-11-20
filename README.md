@@ -2,4 +2,5 @@ This is a Next JS Project created as part of the [Frontend mentor challenge](htt
 
 ## Screenshots
 | Original | Created |
+| -------- | ------- |
 | ![original](./original.jpg) | ![sample](./sample.png) |
